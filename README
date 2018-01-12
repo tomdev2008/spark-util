@@ -1,0 +1,7 @@
+# 用于记录每天凌晨的kafka每个topic的偏移量
+scala version 2.10
+spark version 1.6.0
+kafka version 0.8
+
+* 
+# Example 
